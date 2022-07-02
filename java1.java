@@ -5,7 +5,7 @@ public class first {
     System.out.println("S       A   A");
     System.out.println(" SSS    AAAAA");
     System.out.println("    S   A   A");
-    System.out.println("    S   A   A");
+    System.out.println("S   S   A   A");
     System.out.println(" SSS    A   A");
     
   }
